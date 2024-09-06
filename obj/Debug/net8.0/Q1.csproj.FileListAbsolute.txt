@@ -1,0 +1,15 @@
+E:\reporoot\schoolwork\quiz\Q1\bin\Debug\net8.0\Q1.exe
+E:\reporoot\schoolwork\quiz\Q1\bin\Debug\net8.0\Q1.deps.json
+E:\reporoot\schoolwork\quiz\Q1\bin\Debug\net8.0\Q1.runtimeconfig.json
+E:\reporoot\schoolwork\quiz\Q1\bin\Debug\net8.0\Q1.dll
+E:\reporoot\schoolwork\quiz\Q1\bin\Debug\net8.0\Q1.pdb
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.AssemblyInfoInputs.cache
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.AssemblyInfo.cs
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.csproj.CoreCompileInputs.cache
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.dll
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\refint\Q1.dll
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.pdb
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.genruntimeconfig.cache
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\ref\Q1.dll
+E:\reporoot\schoolwork\quiz\Q1\obj\Debug\net8.0\Q1.sourcelink.json
